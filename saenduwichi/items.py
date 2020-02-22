@@ -11,3 +11,4 @@ import scrapy
 class ProfileItem(scrapy.Item):
     # define the fields for your item here like:
     birth_name = scrapy.Field()
+    url = scrapy.Field()

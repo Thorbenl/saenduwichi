@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a5226a18-e861-4779-b018-0c6a891d0520" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.json" beforeDir="false" afterPath="$PROJECT_DIR$/hello.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saenduwichi/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/saenduwichi/items.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/saenduwichi/spiders/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/saenduwichi/spiders/example.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +39,8 @@
       <option name="presentableId" value="Default" />
       <updated>1582053475751</updated>
       <workItem from="1582053479043" duration="2919000" />
-      <workItem from="1582294068415" duration="7180000" />
+      <workItem from="1582294068415" duration="7642000" />
+      <workItem from="1582556723959" duration="4716000" />
     </task>
     <servers />
   </component>
@@ -45,9 +48,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="360" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1582053578772">
+    <state x="645" y="650" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582563150200">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
+    <state x="645" y="650" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.2560.1417@0.23.2560.1417" timestamp="1582563150200" />
+    <state x="484" y="348" width="901" height="676" key="search.everywhere.popup" timestamp="1582558768980">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
     <state x="360" y="348" width="670" height="676" key="search.everywhere.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1582053578772" />
+    <state x="484" y="348" width="901" height="676" key="search.everywhere.popup/0.23.3440.1417@0.23.3440.1417" timestamp="1582558768980" />
   </component>
 </project>

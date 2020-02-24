@@ -10,5 +10,10 @@ import scrapy
 
 class ProfileItem(scrapy.Item):
     # define the fields for your item here like:
+    stage_name = scrapy.Field()
     birth_name = scrapy.Field()
-    url = scrapy.Field()
+    position = scrapy.Field()
+    birthday = scrapy.Field()
+    height = scrapy.Field()
+    weight = scrapy.Field()
+    nationality = scrapy.Field()
